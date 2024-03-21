@@ -6,6 +6,7 @@ window.onload = () => {
 
 let generateExcuse = () => {
   let who = ["My fish", "I", "My llama", "My Uber driver"];
+
   let action = [
     "drowned",
     "ate",
@@ -15,6 +16,7 @@ let generateExcuse = () => {
     "crushed",
     "broke"
   ];
+
   let what = [
     "itself",
     "cat food instead of tuna",
@@ -22,6 +24,7 @@ let generateExcuse = () => {
     "the keys",
     "the car"
   ];
+
   let when = [
     "earlier",
     "last night",
